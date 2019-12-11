@@ -1,4 +1,4 @@
-# Machine_learning_and_statistics_assessment
+# Machine Learning & Statistics Project Assessment
 
 Project assessment based on analysing the Boston Housing Dataset using descriptive and inferential statistics and completing with creating a keras neural network to predict the meadian house price for test data sets.
 
@@ -27,8 +27,10 @@ Once the file has been opened the Cell, run all, commands can be used to re-run 
 
 ## References -
 
-[1] Anaconda 
+[1] Anaconda -
+
   https://www.anaconda.com/
 
 [2] Jupyter -
+
   http://jupyter.org/
